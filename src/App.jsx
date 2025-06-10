@@ -1,6 +1,6 @@
 import Card from './components/card'
 import './App.css'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Typeeffect from './components/Typeeffect'
 
 import { Swiper, SwiperSlide } from 'swiper/react';
