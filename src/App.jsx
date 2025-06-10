@@ -1,4 +1,4 @@
-import Card from './components/card'
+import Card from './components/Card'
 import './App.css'
 import Navbar from './components/Navbar'
 import Typeeffect from './components/Typeeffect'
