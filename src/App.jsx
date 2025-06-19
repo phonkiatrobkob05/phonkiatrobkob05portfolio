@@ -21,7 +21,7 @@ function App() {
             <Typeeffect></Typeeffect>
           </h1>
         </div>
-        <img src="public/avatar-svgrepo-com.svg" alt="" className="w-1/5" />
+        <img src="/avatar-svgrepo-com.svg" alt="" className="w-1/5" />
         {/* About me */}
         <section id="Aboutme">
           <div className="text-base text-gray-800 max-w-2xl text-center mt-4">
@@ -65,7 +65,7 @@ function App() {
               <Card
                 title="Pulsemate"
                 description="IoT system for remote patient monitoring using ESP8266 and Blood Pressure Measure."
-                image="public/PulseMate Presentation.png"
+                image="/pulseMate Presentation.png"
                 link="https://github.com/yourusername/health-monitor"
               />
             </SwiperSlide>
@@ -73,7 +73,7 @@ function App() {
               <Card
                 title="Lendly"
                 description="A borrowing app with swipe-to-borrow UX using MERN stack."
-                image="public/Lendly Project.png"
+                image="/lendly Project.png"
                 link="https://github.com/yourusername/lendly"
               />
             </SwiperSlide>
@@ -81,7 +81,7 @@ function App() {
               <Card
                 title="Coming Soon"
                 description="..."
-                image="public/questionmark-s-svgrepo-com.svg"
+                image="/questionmark-s-svgrepo-com.svg"
                 link="#"
               />
             </SwiperSlide>
@@ -89,7 +89,7 @@ function App() {
               <Card
                 title="Coming Soon"
                 description="..."
-                image="public/questionmark-s-svgrepo-com.svg"
+                image="/questionmark-s-svgrepo-com.svg"
                 link="#"
               />
             </SwiperSlide>
@@ -97,7 +97,7 @@ function App() {
               <Card
                 title="Coming Soon"
                 description="..."
-                image="public/questionmark-s-svgrepo-com.svg"
+                image="/questionmark-s-svgrepo-com.svg"
                 link="#"
               />
             </SwiperSlide>
@@ -152,7 +152,7 @@ function App() {
                   <Certifications
                     title="Coming Soon Kub"
                     description="Some competitive programming projects and challenges."
-                    image="public/Employment-Job-Application-550x712 (1).png"
+                    image="/employment-Job-Application-550x712 (1).png"
                     link="https://github.com/yourusername/health-monitor"
                   />
                 </SwiperSlide>
@@ -160,14 +160,14 @@ function App() {
                   <Certifications
                     title="Coming Soon Kub"
                     description="Some competitive programming projects and challenges."
-                    image="public/Employment-Job-Application-550x712 (1).png"
+                    image="/employment-Job-Application-550x712 (1).png"
                     link="https://github.com/yourusername/health-monitor"
                   />
                 </SwiperSlide><SwiperSlide>
                   <Certifications
                     title="Coming Soon Kub"
                     description="Some competitive programming projects and challenges."
-                    image="public/Employment-Job-Application-550x712 (1).png"
+                    image="/employment-Job-Application-550x712 (1).png"
                     link="https://github.com/yourusername/health-monitor"
                   />
                 </SwiperSlide>
@@ -193,16 +193,16 @@ function App() {
           </p>
         <div className="flex gap-4">
                 <a href="#">
-                  <img src="public/github-svgrepo-com.svg" alt="" className="w-10" />
+                  <img src="/github-svgrepo-com.svg" alt="" className="w-10" />
                 </a>
                 <a href="#">
-                  <img src="public/instagram-167-svgrepo-com.svg" alt="" className="w-10" />
+                  <img src="/instagram-167-svgrepo-com.svg" alt="" className="w-10" />
                 </a>
                 <a href="#">
-                  <img src="public/facebook-svgrepo-com.svg" alt="" className="w-10" />
+                  <img src="/facebook-svgrepo-com.svg" alt="" className="w-10" />
                 </a>
                 <a href="#">
-                  <img src="public/linkedin-svgrepo-com.svg" alt="" className="w-10" />
+                  <img src="/linkedin-svgrepo-com.svg" alt="" className="w-10" />
                 </a>
 
         </div>
