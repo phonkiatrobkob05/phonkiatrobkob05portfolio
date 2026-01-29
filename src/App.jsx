@@ -149,7 +149,7 @@ function App() {
               <Card
                 title="MIIC 2025 Finalist"
                 description="Sign2Speech Real-time Sign Language Translation System using IoT and Machine Learning."
-                image="/public/AwardMIIC.png"
+                image="/AwardMIIC.png"
                 
                 
               />
@@ -158,7 +158,7 @@ function App() {
               <Card
                 title="Aiei MecHack 2025 1st Runner Up"
                 description="Smart Decentralize overcrowded hospital system"
-                image="/public/AwardAIEI.jpg"
+                image="/AwardAIEI.jpg"
                 
                 
               />
